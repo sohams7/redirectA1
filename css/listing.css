@@ -1,0 +1,54 @@
+.assign{
+    background-color: #007bff;
+    color: white;
+    padding: 20px;
+    width: 100%;
+    height: 100px;
+}
+.side_head{
+    background-color: white;
+    height: 1190px;
+}
+.side_head h3{
+    padding: 18px;
+}
+.book_list{
+    background-color: #d2d4d6;
+    height: 1190px;
+}
+.book_list h3{
+    padding-top: 18px;
+    padding-bottom: 13px;
+}
+.book_list .created{
+    color: #6c757dab;
+}
+.book-box{
+    background-color: white;
+    display: grid;
+}
+.book {
+    margin: 24px;
+    border-bottom: 1px solid;
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+}
+.book .cover{
+    width: 100px;
+    float: left;
+}
+.book .content{
+    float: left;
+    padding-left: 55px;
+}
+.book .edit{
+    float: right;
+    margin-top: 10px;
+}
+.book .edit button {
+    padding: 4px 24px;
+    font-weight: 500;
+}
+.last{
+    margin-bottom: 30px;
+}
